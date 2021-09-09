@@ -1,5 +1,5 @@
 # colour-difference-finder
-Find what turns &lt;colour A> into &lt;colour B>
+Helps you find what turns &lt;colour A> into &lt;colour B>
 
 I made a tool what helps you find the difference between two colours for my own use. I thought others would like to use it too, so I decided to make my first Repository (re-posit-orie, right?) for others to download. 
 
