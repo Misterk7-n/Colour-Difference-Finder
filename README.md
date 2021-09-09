@@ -5,5 +5,5 @@ I made a tool what helps you find the difference between two colours for my own 
 
 Part of the reason I've decided to put it up on GitHub is because of how basic and rudimentary this project is. Feel free to add and improve on this project in any way you like, and i'll be sure to merge your changes into the main branch. A color picker, maybe?
 
-![colour diagram](https://user-images.githubusercontent.com/66379077/132755382-910d6e8b-959a-41fc-94b1-ce8425ab9a7d.png)
+![colour diagram](https://user-images.githubusercontent.com/66379077/132755898-eefedda3-291f-4426-85f0-f6ae7f7c8d10.png)
 
